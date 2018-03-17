@@ -1,0 +1,37 @@
+#site-navigation {
+    color: #ffffff;
+    background-color: #EEC170;
+}
+
+#site-navigation a, #site-navigation a:visited,
+#top-navigation a, #top-navigation a:visited
+{
+    color: white;
+}
+
+#top-navigation {
+    color: #ffffff;
+    background-color: #F2A65A;
+}
+
+#masthead {
+    color: white;
+    background-color: #3E5641;
+}
+
+#colophon {
+    color: white;
+    background-color: #3E5641;
+}
+
+.menu-items-alignment {
+    float: right;
+}
+
+.menu-items-size {
+    font-size: smaller;
+}
+
+.post-card {
+    background-color: #83BCA9;
+}
